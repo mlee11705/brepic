@@ -92,7 +92,7 @@ export default function Main() {
             <img
               alt="feature"
               class="object-cover object-center h-full w-full"
-              src="./images/placeholder.png"
+              src="./images/key-dynamic-premium.png"
             ></img>
           </div>
           <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
