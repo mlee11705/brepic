@@ -10,15 +10,6 @@ export default function Main() {
           <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
             <span>We connect </span>
             <br class="hidden lg:block"></br>
-            <Typewriter
-            words={["a builder", "a creator", "a developer", "an avid learner"]}
-            loop={true}
-            cursor
-            cursorStyle="|"
-            typeSpeed={41}
-            deleteSpeed={50}
-            delaySpeed={1700}
-          />
           Hii
           </h1>
           <br></br>
