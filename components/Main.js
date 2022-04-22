@@ -23,11 +23,9 @@ export default function Main() {
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <video
-          class="object-cover object-center w-full mb-10 shadow-md"
-          alt="hero"
           autoplay
         >
-          <source src="./images/zoomed-in-arcs.h264.mp4" 
+          <source src="./images/graceful-degredation.h264.mp4" 
           type="video/mp4"/>
         </video>
       </div>
