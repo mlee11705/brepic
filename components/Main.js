@@ -27,6 +27,7 @@ export default function Main() {
           alt="hero"
           src="./images/zoomed-in-arcs.h264.mp4" 
           type="video/mp4"
+          autoPlay
         ></video>
       </div>
       <section class="text-gray-600 body-font">
