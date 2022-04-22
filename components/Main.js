@@ -23,12 +23,13 @@ export default function Main() {
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <video
-          class="object-cover object-center w-full mb-10 border-gray-200 dark:border-gray-900 g327 border rounded-lg shadow-md"
+          class="object-cover object-center w-full mb-10 shadow-md"
           alt="hero"
-          src="./images/zoomed-in-arcs.h264.mp4" 
-          type="video/mp4"
-          autoPlay
-        ></video>
+          autoplay
+        >
+          <source src="./images/zoomed-in-arcs.h264.mp4" 
+          type="video/mp4"/>
+        </video>
       </div>
       <section class="text-gray-600 body-font">
         <section class="text-gray-600 body-font">
