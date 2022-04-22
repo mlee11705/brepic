@@ -28,7 +28,7 @@ export default function Main() {
           alt="hero"
           loop autoPlay
         >
-          <source src="./images/Podcast.png" />
+          <source src="./images/rocket.png" />
         </video>
       </div>
       <section class="text-gray-600 body-font">
