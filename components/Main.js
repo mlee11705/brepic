@@ -13,11 +13,11 @@ export default function Main() {
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
-            nine4 is a free to use template website for websites made with{" "}
+            Brepic is your network of service providers that don't advertise. {" "}
             <a href="https://nextjs.org/" className="underline">
-              Next.js
+              Apply
             </a>{" "}
-            and styled with Tailwind CSS
+            and get access to the world of professionals that is introduction only.
           </p>
         </div>
       </div>
