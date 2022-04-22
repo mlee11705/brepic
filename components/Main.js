@@ -16,7 +16,7 @@ export default function Main() {
             loop={true}
             cursor
             cursorStyle="|"
-            typeSpeed={40}
+            typeSpeed={41}
             deleteSpeed={50}
             delaySpeed={1700}
           />
