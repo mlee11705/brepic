@@ -23,10 +23,16 @@ export default function Main() {
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <video
-          autoplay
+          class="object-cover object-center w-full mb-10 shadow-md"
+          alt="hero"
+          loop autoPlay
         >
           <source src="./images/graceful-degredation.h264.mp4" 
           type="video/mp4"/>
+          <source src="./images/graceful-degredation.h264.ogv" 
+          type="video/ogg"/>
+          <source src="./images/graceful-degredation.h264.webm" 
+          type="video/webm"/>
         </video>
       </div>
       <section class="text-gray-600 body-font">
