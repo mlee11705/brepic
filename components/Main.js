@@ -11,6 +11,15 @@ export default function Main() {
             <span>We connect </span>
             <br class="hidden lg:block"></br>
           Service Providers
+          <Typewriter
+            words={["a builder", "a creator", "a developer", "an avid learner"]}
+            loop={true}
+            cursor
+            cursorStyle="|"
+            typeSpeed={40}
+            deleteSpeed={50}
+            delaySpeed={1700}
+          />
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
@@ -56,7 +65,7 @@ export default function Main() {
                     )}
                   </CountUp>
                 </h2>
-                <p class="leading-relaxed">Subscribes</p>
+                <p class="leading-relaxed">Subscribers</p>
               </div>
               <div class="p-4 sm:w-1/3 w-1/2">
                 <h2 class="title-font font-medium sm:text-4xl text-3xl text-white">
