@@ -26,7 +26,6 @@ export default function Main() {
         <video
           class="object-cover object-center w-full mb-10 shadow-md"
           alt="hero"
-          loop autoPlay
         >
           <source src="./images/rocket.png" />
         </video>
