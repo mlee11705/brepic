@@ -101,7 +101,7 @@ export default function Main() {
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
                 <h2 class="text-white text-2xl title-font font-medium mb-3">
-                  Free
+                  Pre-vetted
                 </h2>
                 <p class="leading-relaxed text-lg">
                   All of our templates are 100% free forever.
