@@ -1,7 +1,5 @@
-import React from 'react';
 import CountUp from "react-countup";
 import VisibilitySensor from "react-visibility-sensor";
-import Typewriter from "react-simple-typewriter";
 
 export default function Main() {
   return (
@@ -11,15 +9,7 @@ export default function Main() {
           <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
             <span>We connect </span>
             <br class="hidden lg:block"></br>
-            <Typewriter
-            words={["a builder", "a creator", "a developer", "an avid learner"]}
-            loop={true}
-            cursor
-            cursorStyle="|"
-            typeSpeed={40}
-            deleteSpeed={50}
-            delaySpeed={1700}
-          />
+            Service providers
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
@@ -31,7 +21,7 @@ export default function Main() {
           </p>
         </div>
       </div>
-      <div>
+      <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <video
           class="object-cover object-center w-full mb-10 shadow-md"
           alt="hero"
