@@ -19,7 +19,7 @@ export default function Main() {
             deleteSpeed={50}
             delaySpeed={1700}
           />
-          Hi
+          Hii
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
