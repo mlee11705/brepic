@@ -28,7 +28,7 @@ export default function Main() {
             <a href="https://superhuman-co.typeform.com/to/GcDIuj" className="underline">
               Apply
             </a>{" "}
-            and get access to the world of introduction only professionals.
+            and get access to the world of intro only professionals.
           </p>
         </div>
       </div>
