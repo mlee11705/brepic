@@ -17,7 +17,7 @@ export default function Main() {
             <a href="https://nextjs.org/" className="underline">
               Apply
             </a>{" "}
-            and get access to the world of professionals that is introduction only.
+            and get access to the world of introduction only professionals.
           </p>
         </div>
       </div>
