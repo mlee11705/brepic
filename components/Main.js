@@ -24,7 +24,7 @@ export default function Main() {
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
             Brepic is your network of service providers that don't advertise. {" "}
-            <a href="https://nextjs.org/" className="underline">
+            <a href="https://superhuman-co.typeform.com/to/GcDIuj" className="underline">
               Apply
             </a>{" "}
             and get access to the world of introduction only professionals.
