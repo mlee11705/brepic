@@ -22,11 +22,11 @@ export default function Main() {
         </div>
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
-        <img
+        <video
           class="object-cover object-center w-full mb-10 border-gray-200 dark:border-gray-900 g327 border rounded-lg shadow-md"
           alt="hero"
-          src="./images/83209210-136f-4dfd-aa3e-7e0cf39ade70.gif"
-        ></img>
+          src="./images/83209210-136f-4dfd-aa3e-7e0cf39ade70.webm" type="video/webm"
+        ></video>
       </div>
       <section class="text-gray-600 body-font">
         <section class="text-gray-600 body-font">
