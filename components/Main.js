@@ -25,7 +25,7 @@ export default function Main() {
         <img
           class="object-cover object-center w-full mb-10 border-gray-200 dark:border-gray-900 g327 border rounded-lg shadow-md"
           alt="hero"
-          src="./images/83209210-136f-4dfd-aa3e-7e0cf39ade70.webm"
+          src="./images/83209210-136f-4dfd-aa3e-7e0cf39ade70.gif"
         ></img>
       </div>
       <section class="text-gray-600 body-font">
