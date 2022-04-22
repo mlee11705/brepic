@@ -27,8 +27,6 @@ export default function Main() {
           alt="hero"
           src="./images/zoomed-in-arcs.h264.mp4" 
           type="video/mp4"
-          src="./images/zoomed-in-arcs.h264.ogg" 
-          type="video/ogg"
         ></video>
       </div>
       <section class="text-gray-600 body-font">
