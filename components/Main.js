@@ -36,12 +36,7 @@ export default function Main() {
           alt="hero"
           loop autoPlay
         >
-          <source src="./images/graceful-degredation.h264.mp4" 
-          type="video/mp4"/>
-          <source src="./images/graceful-degredation.h264.ogv" 
-          type="video/ogg"/>
-          <source src="./images/graceful-degredation.h264.webm" 
-          type="video/webm"/>
+          <source src="./images/Podcast.png" />
         </video>
       </div>
       <section class="text-gray-600 body-font">
