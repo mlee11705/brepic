@@ -26,13 +26,12 @@ export default function Main() {
         </button>
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
-        <video
+        <img
           class="object-cover object-center w-full mb-10 shadow-md"
           alt="hero"
-          loop autoPlay
         >
-          <source src="./images/zoomed-in-arcs.h264.mp4" type="video/mp4"/>
-        </video>
+          <source src="./images/image_processing20210909-18629-hx2etj.gif"/>
+        </img>
       </div>
       <section class="text-gray-600 body-font">
         <section class="text-gray-600 body-font">
