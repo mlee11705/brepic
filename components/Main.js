@@ -169,7 +169,7 @@ export default function Main() {
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
-                        Chris
+                        Mark Fujiwara
                       </h2>
                       <h3 class="text-gray-500 mb-3">Web Developer</h3>
                       <p class="mb-4">
