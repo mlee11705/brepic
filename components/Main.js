@@ -11,15 +11,6 @@ export default function Main() {
             <span>We connect </span>
             <br class="hidden lg:block"></br>
           Service Providers
-          <Typewriter
-            words={["a builder", "a creator", "a developer", "an avid learner"]}
-            loop={true}
-            cursor
-            cursorStyle="|"
-            typeSpeed={40}
-            deleteSpeed={50}
-            delaySpeed={1700}
-          />
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
